@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\levels.cs">
+    <Files>
+      <File FileName="Assets\scripts\nextLevel.cs" Line="14" Column="42" />
+      <File FileName="Assets\scripts\player.cs" Line="33" Column="22" />
+      <File FileName="Assets\scripts\about.cs" Line="7" Column="31" />
+      <File FileName="Assets\scripts\levels.cs" Line="16" Column="37" />
+      <File FileName="Assets\scripts\Tutorial.cs" Line="72" Column="27" />
+      <File FileName="Assets\scripts\wining.cs" Line="39" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
